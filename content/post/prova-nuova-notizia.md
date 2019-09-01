@@ -3,7 +3,7 @@ date = "2019-08-31T22:00:00+00:00"
 image = "/uploads/podio JUNIORES.jpg"
 linktitle = "Prova"
 title = "Prova nuova notizia"
-weight = nil
+weight = 10
 
 +++
 È successo un nuovo evento incredibile!
