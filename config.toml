@@ -1,0 +1,46 @@
+baseurl         = "/"
+#theme           = "ananke"
+theme           = "hugo-casper-two"
+languageCode    = "it-IT"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "Tennis Tavolo Morelli"
+  subtitle    = "Ping Pong dal 1985"
+
+  cover       = "images/hero_scuro.jpg"
+  description = "Here is a description of your site."
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  # twitterName = "faketryghost"
+  fbName = "tennistavolomorelli"
+  # githubName = "eueung"
+
+  logo = "images/logo_trasparente_chiaro.png"
+  orgName = "EM"
+  orgWebsite = "https://www.tennistavolomorelli.it"
+  orgDescription = "Here is a description placeholder for your org"
+
+  # author = "EM"
+  # authorAvatar = "img/ghost-icon.png"
+  #authorLocation = "Bandung, ID"
+  #authorWebsite = "https://eueung.github.io"
+  # authorDescription = "Describe yourself.."
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 200
