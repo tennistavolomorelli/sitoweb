@@ -1,6 +1,3 @@
-[submodule "hugo-casper-two"]
-	path = hugo-casper-two
-	url = git@github.com:tennistavolomorelli/hugo-casper-two.git
 [submodule "themes/hugo-casper-two"]
 	path = themes/hugo-casper-two
 	url = git@github.com:tennistavolomorelli/hugo-casper-two.git
