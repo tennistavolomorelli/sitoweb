@@ -17,5 +17,3 @@ fields:
 - type: file
   name: image
   label: image
-pages:
-- content/post/prova-nuova-notizia.md
