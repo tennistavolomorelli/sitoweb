@@ -1,25 +1,23 @@
 +++
 date = "2019-09-01T22:00:00+00:00"
-draft = true
 image = "/uploads/image.jpg"
 title = "Titolo interessante"
 
 +++
----
+***
 
-__Advertisement :)__
+**Advertisement :)**
 
-- __[pica](https://nodeca.github.io/pica/demo/)__ - high quality and fast image
+* [**pica**](https://nodeca.github.io/pica/demo/) - high quality and fast image
 
   resize in browser.
-
-- __[babelfish](https://github.com/nodeca/babelfish/)__ - developer friendly
+* [**babelfish**](https://github.com/nodeca/babelfish/) - developer friendly
 
   i18n with plurals support and easy syntax.
 
 You will like those projects!
 
----
+***
 
 # h1 Heading 8-)
 
@@ -35,9 +33,9 @@ You will like those projects!
 
 ## Horizontal Rules
 
-___
+***
 
----
+***
 
 ***
 
@@ -57,9 +55,9 @@ test.. test... test..... test?..... test!....
 
 **This is bold text**
 
-__This is bold text__
+**This is bold text**
 
-*This is italic text*
+_This is italic text_
 
 _This is italic text_
 
@@ -69,7 +67,7 @@ _This is italic text_
 
 > Blockquotes can also be nested...
 
->> ...by using additional greater-than signs right next to each other...
+> > ...by using additional greater-than signs right next to each other...
 
 > > > ...or with spaces between arrows.
 
