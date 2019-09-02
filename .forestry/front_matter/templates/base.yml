@@ -6,14 +6,8 @@ fields:
   name: date
   label: date
 - type: text
-  name: linktitle
-  label: linktitle
-- type: text
   name: title
   label: title
-- type: number
-  name: weight
-  label: weight
 - type: file
   name: image
   label: image
