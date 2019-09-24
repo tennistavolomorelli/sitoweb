@@ -8,7 +8,7 @@ paginate        = 6
 
 [params]
   title       = "Tennis Tavolo Morelli"
-  subtitle    = "Ping Pong dal 1985"
+  subtitle    = "A.S.D. Cernusco Sul Naviglio"
 
   cover       = "images/hero_scuro.jpg"
   description = "Tennis tavolo morelli"
@@ -21,7 +21,7 @@ paginate        = 6
   fbName = "tennistavolomorelli"
   # githubName = "eueung"
 
-  logo = "images/logo_trasparente_chiaro.png"
+  logo = "images/logo-invertito.svg"
   orgName = "Tennis tavolo morelli"
   orgWebsite = "https://www.tennistavolomorelli.it"
   orgDescription = "Tennis tavolo morelli"
