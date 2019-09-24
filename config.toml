@@ -11,7 +11,7 @@ paginate        = 6
   subtitle    = "A.S.D. Cernusco Sul Naviglio"
 
   cover       = "images/hero_scuro.jpg"
-  description = "Tennis tavolo morelli"
+  description = "Tennis Tavolo Morelli"
   metaDescription = ""
   googleAnalytics = ""
   customCSS = []
@@ -22,9 +22,9 @@ paginate        = 6
   # githubName = "eueung"
 
   logo = "images/logo-invertito.svg"
-  orgName = "Tennis tavolo morelli"
+  orgName = "Tennis Tavolo Morelli"
   orgWebsite = "https://www.tennistavolomorelli.it"
-  orgDescription = "Tennis tavolo morelli"
+  orgDescription = "Tennis Tavolo Morelli"
 
   # author = "EM"
   # authorAvatar = "img/ghost-icon.png"
@@ -32,7 +32,7 @@ paginate        = 6
   #authorWebsite = "https://eueung.github.io"
   # authorDescription = "Describe yourself.."
 
-  pageNotFoundTitle = "404 - Page not found"
+  pageNotFoundTitle = "404 - pagina"
 
   #casper or caspertwo
   singleViewStyle = "casper"
@@ -44,3 +44,14 @@ paginate        = 6
   name = "Home"
   url = "/"
   weight = 200
+
+[[menu.main]]
+  name = "Dove Siamo"
+  url = "/dovesiamo"
+  weight = 100
+
+[[menu.main]]
+  name = "Squadre"
+  url = "/squadre"
+  weight = 99
+
