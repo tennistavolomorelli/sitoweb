@@ -8,3 +8,7 @@ menu:
 main: {}
 
 ---
+
+La Morelli partecipa al campionato.
+
+Ecco le squadre
