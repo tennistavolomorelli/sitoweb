@@ -8,3 +8,6 @@ menu: "Squadre"
 main: {}
 
 ---
+
+Presto metteremo qui le informazioni sulle squadre.
+

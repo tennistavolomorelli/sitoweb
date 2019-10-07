@@ -50,14 +50,13 @@ paginate        = 6
   url = "/dovesiamo"
   weight = 100
 
+
 [[menu.main]]
-  name = "Squadre"
-  url = "/squadre"
+  name = "Contatti"
+  url = "/contatti"
   weight = 99
 
-[[menu.main]]
-  name = "Campionato"
-  url = "/campionato"
-  weight = 80
-
-
+# [[menu.main]]
+#  name = "Squadre"
+#  url = "/squadre"
+#  weight = 80
