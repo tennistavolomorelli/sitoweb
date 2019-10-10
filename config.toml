@@ -6,6 +6,8 @@ disqusShortname = ""
 paginate        = 6
 #SectionPagesMenu = "main"
 
+googleAnalytics = "UA-149791648-1"
+
 [params]
   title       = "Tennis Tavolo Morelli"
   subtitle    = "A.S.D. Cernusco Sul Naviglio"
