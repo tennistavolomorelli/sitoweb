@@ -1,7 +1,7 @@
 ---
 date: 2019-10-15
 title: Seconda giornata di campionato
-image: images/2019-10-06-seconda-giornata.jpg
+image: images/image001.jpg
 
 ---
 
