@@ -13,7 +13,7 @@ main: {}
 | __Giannotti__ | __Masciangelo__ | __Nicolosi__ |
 | Cavenati      | Ciavirella      | Magistrelli  |
 | Patelli       | Farinato        | Paganelli    |
-| Spaziante     | Gaia            | Magnaghi     |
+| Spaziante     | Gaia Masciangelo| Magnaghi     |
 
 
 | D2A           | D2B             | D2C          |
