@@ -1,4 +1,4 @@
-baseurl         = "/"
+baseurl         = "https://tennistavolomorelli.it"
 #theme           = "ananke"
 theme           = "hugo-casper-two"
 languageCode    = "it-IT"
