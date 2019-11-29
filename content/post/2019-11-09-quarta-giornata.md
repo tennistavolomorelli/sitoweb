@@ -55,4 +55,4 @@ piegato per 4 a 2 il TT Vallecamonica B e nel pomeriggio liquidare con un perent
 Cazzaniga. Bravissime le nostre ragazze che guidate dal mister Leto Emanuele hanno espresso un gioco
 spumeggiante a tratti devastante.
 
-![Novali](/images/giada.jpg)
+![Giada](/images/giada.jpg)
