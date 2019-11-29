@@ -22,3 +22,5 @@ Altri due punti fondamentali per la D3B che ha la meglio nel derby con il TT San
 Frenata per la D3A, trova sulla sua strada l’esperta formazione del ASD Arcobaleno A, anche questa partita termina 4 a 3 e premia il gioco più costante dei ragazzi di Cassina de pecchi.
 
 Si arrendono anche le 2 D2 che orfane di molti giocatori registrano sconfitte che potrebbero lasciare il segno. Appuntamento alla prossima gara con un solo obbiettivo:
+
+VINCERE.
