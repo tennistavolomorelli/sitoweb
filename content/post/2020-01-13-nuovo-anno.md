@@ -7,6 +7,6 @@ image: images/anno.jpeg
 
 Il nuovo anno è arrivato, e noi ci stiamo già allenando.
 
-{{< youtube 8AC76rgTWuI >}}
+{{< yt 8AC76rgTWuI >}}
 
 Forza!
