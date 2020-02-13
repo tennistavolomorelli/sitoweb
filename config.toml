@@ -12,7 +12,7 @@ googleAnalytics = "UA-149791648-1"
   title       = "Tennis Tavolo Morelli"
   subtitle    = "A.S.D. Cernusco Sul Naviglio"
 
-  cover       = "images/hero_scuro.jpg"
+  cover       = "hero/hero_scuro.jpg"
   description = "Tennis Tavolo Morelli"
   metaDescription = ""
   googleAnalytics = ""
