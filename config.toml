@@ -16,7 +16,7 @@ googleAnalytics = "UA-149791648-1"
   description = "Tennis Tavolo Morelli"
   metaDescription = ""
   googleAnalytics = ""
-  customCSS = []
+  customCSS = ["css/custom.css"]
   RSSLink = ""
 
   # twitterName = "faketryghost"
