@@ -7,6 +7,6 @@ main: {}
 
 ---
 
-Ti sei iscritto al torneo
+Ti sei iscritto al torneo di San Giuseppe
 
-Grazie per l'iscrizione, ci vediamo il 30 Marzo!
+Grazie per l'iscrizione, ci vediamo il 22 Marzo!
