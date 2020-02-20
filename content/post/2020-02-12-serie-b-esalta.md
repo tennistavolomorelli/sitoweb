@@ -1,7 +1,7 @@
 ---
 date: 2020-02-12
 title: La serie B femminile si esalta e vola in testa alla classifica!
-image: images/serieb.jpg
+image: images/hi/IMG_9321.jpg
 
 ---
 
