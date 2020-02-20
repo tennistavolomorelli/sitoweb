@@ -1,7 +1,7 @@
 ---
 date: 2020-01-13
 title: Nuovo anno, nuove energie
-image: images/anno.jpeg
+image: images/hi/anno.jpg
 
 ---
 
