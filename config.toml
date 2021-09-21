@@ -8,6 +8,9 @@ paginate        = 6
 
 googleAnalytics = "UA-149791648-1"
 
+ignoreErrors = ["error-missing-instagram-accesstoken"]
+
+
 [params]
   title       = "Tennis Tavolo Morelli"
   subtitle    = "A.S.D. Cernusco Sul Naviglio"
