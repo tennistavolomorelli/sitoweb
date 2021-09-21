@@ -27,8 +27,6 @@ Non conosce ostacoli la D2B, cinica a sfruttare il turno casalingo, che impone i
 incontro di doppio. Bonalumi, Crippa e Ciulla dimostrano qualità nei colpi e freddezza nel chiudere
 prepotentemente l’incontro sul 6 a 1.
 
-{{< instagram B4NHLSOoxUa >}}
-
 Solo applausi per la D3A ( foto ), la squadra capitanata da un sempre più convincente Liuzzi Andrea, esce
 trionfante dal match in casa del TT isola del Bosco. Un 4 a 3 contro atleti sulla carta più quotati che esalta le
 qualità dei nostri ragazzi.

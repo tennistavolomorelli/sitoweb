@@ -21,8 +21,6 @@ I veterani della D2A vincono e convincono strapazzando gli avversari per 6 a 1. 
 
 Altro 5 a 2 a favore degli ospiti nel girone I della D2, Grieco e compagni vanno a sbattere contro il muro eretto dal TT Urania formazione con ambizione di alta classifica. Buona la prestazione di tutti i componenti della compagine cernuschese che avranno tempo per trovare la forma migliore e regalarsi vittorie in un girone alla loro portata. 
 
-{{< instagram B3VO08ZH_GC >}}
-
 Partenza da dimenticare per la D2C, gli avversari decisamente in palla impongono il proprio gioco lasciando un solo punto alla formazione cernuschese ottenuto da un convincente Novali Fabrizio. 
 
 Sconfitta inattesa per la D3B che si vede superare dalle Aquile Azzurre di Milano. Ottima la prestazione del capitano Marco Ghezzi, porta 2 punti alla propria formazione e dispensa consigli utili a tutti i suoi compagni. 

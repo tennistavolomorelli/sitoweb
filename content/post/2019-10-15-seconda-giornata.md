@@ -11,13 +11,9 @@ Splendida partita quella offerta dalla D1B che in una palestra gremita strappa a
 
 Stesso risultato per la D2C che regola senza difficoltà i pari grado del Tennistavolo US Olimpia A. Novaga e Novali prendono per mano la squadra, concentrati e determinati si regalano i primi due punti in classifica.
 
-{{< instagram B3hmp4SIG7p >}}
-
 Sconfitta senza appello per la D1A che deve arrendersi come da pronostico al TT Young Eagles. Un 7-0 pesante che non deve minare le certezze della giovane formazione rossoblù.
 
 Emozioni e tanti applausi per la D3A. I giovanissimi del vivaio Cernusco ottengono una vittoria importante per il campionato, ma in particolare per se stessi. Liuzzi Botta e Turzo mettono in pratica gli schemi preparati in allenamento e vincono soffrendo contro il TT Bonacossa. ( foto)
-
-{{< instagram B3hnN6Kotai >}}
 
 La D1C inserita in un girone di ferro esce con le ossa rotte dalla trasferta a Brescia, gli avversari anche aiutati dai numerosi punti ottenuti con la retina fanno valere la loro classifica e lasciano un solo punto alla formazione milanese.
 

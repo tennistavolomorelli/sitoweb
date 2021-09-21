@@ -15,8 +15,6 @@ Da registrare solo sconfitte per le 3 D1 che lasciano ambizioni e sogni di promo
 Imperativo cancellare questo passo falso e riprendere il cammino positivo già dalla prossima settimana.
 
 
-{{< instagram B5NypY0oUQo >}}
-
 Altri due punti fondamentali per la D3B che ha la meglio nel derby con il TT San Giorgio Limito. Ancora un 4 a 3 che da morale a tutti i componenti della squadra, consapevoli che per ottenere l’ambita promozione bisognerà lottare sino alla fine.
 
 Frenata per la D3A, trova sulla sua strada l’esperta formazione del ASD Arcobaleno A, anche questa partita termina 4 a 3 e premia il gioco più costante dei ragazzi di Cassina de pecchi.
